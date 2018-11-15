@@ -13,18 +13,31 @@ Financial Analyst (FA) performance data is provided in a single Excel sheet with
 
 FA Details
 Column 1 is the FA ID
+
 Branch Detail
+
 Product Mix (Rev)
+
 Product Mix (Assets)
+
 Product Penetration
+
 Client Acquisition Details
+
 Net New Money Details
+
 Marketing Details
+
 Wealth/Financial Planning
+
 Client Retention
+
 Digital Tools
+
 Banking and Lending
+
 Client Age Distribution
+
 Segment Index Score
 
 Columns “BV-CF” identify the Net New Money.
