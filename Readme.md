@@ -3,7 +3,7 @@ OVERVIEW :-
 
 1)EDA (Exploratory Data Analysis) done for a Global wealth management bank's dataset to understand the parameter's that strongly correlate to the Financial Analysts (FAs) performance with increase in amount of managed wealth or “New Net Money” (NNM). 
 
-2)Used the 4000 rows data of different FA to predicte the recommendations for the remaining 187 FA.
+2)Used 4000 rows data of different FA to predict the recommendations (parameters to focus) for the remaining 187 FA.
 
 
 
