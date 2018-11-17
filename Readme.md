@@ -48,14 +48,23 @@ Columns “BV-CF” identify the Net New Money.
 FINDINGS:
 
 List of features which strongly correlate to the FA performance are-
+
 1)Client Acquisition Details-YTD $1m+ QNRs (March-2018)
+
 2)Net New Money Details-FA Comp. NNM 2015
+
 3)Net New Money Details-FA Comp. NNM 2016
-4)Product Mix (Assets)-CASH .1
+
+4)Product Mix (Assets)-CASH 
+
 5)Net New Money Details-FA Comp. NNM 2014
-6)Product Mix (Rev)-EQUITIES.1
+
+6)Product Mix (Rev)-EQUITIES
+
 7)Product Mix (Rev)-ADVISORY
-8)Product Mix (Rev)-MUNICIPALS.1
+
+8)Product Mix (Rev)-MUNICIPALS
+
 9)-# accts enrolled in MTP
 
 Point no 2,3,5 from the above list is something that the FA can't improve as it's a past record. He can focus to improve upon other features to increase the NNM.
