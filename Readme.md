@@ -34,4 +34,4 @@ List of features which strongly correlate to the FA performance are:
   - Product Mix (Rev)-MUNICIPALS
   - -# accts enrolled in MTP
 
-###### Points 2,3,5 (related to NNM) from the above list is something that the FA can't improve as it's a past record. He can focus to improve upon other features to increase the NNM.
+Points 2,3,5 (related to NNM) from the above list is something that the FA can't improve as it's a past record. He can focus to improve upon other features to increase the NNM.
